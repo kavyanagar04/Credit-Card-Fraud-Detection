@@ -61,4 +61,4 @@ Because the data is highly imbalanced, accuracy is not a reliable metric. Instea
 The **XGBoost model trained on SMOTE data** significantly outperformed the baseline Random Forest on the original imbalanced data, offering a much better balance between precision and recall, validated by a strong Matthews Correlation Coefficient (MCC).
 
 ---
-*Created as a portfolio project to showcase skills in Machine Learning, Data Preprocessing, and handling Imbalanced Datasets.*
+
