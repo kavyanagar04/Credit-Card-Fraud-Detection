@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection using Machine Learning
 
-[![Open in nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/kavyanagar04/Credit-Card-Fraud-Detection/blob/main/credit_card_fraud_detection.ipynb)
+[![Open in nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/kavyanagar04/Credit-Card-Fraud-Detection/blob/main/Credit_Card_Fraud_Detection.ipynb)
 
 > **Note:** If the Jupyter Notebook fails to load on GitHub, click the **nbviewer** badge above to view it!
 
