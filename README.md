@@ -1,8 +1,9 @@
 # Credit Card Fraud Detection using Machine Learning
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Open in nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/kavyanagar04/Credit-Card-Fraud-Detection/blob/main/credit_card_fraud_detection.ipynb)
+
+> **Note:** If the Jupyter Notebook fails to load on GitHub, click the **nbviewer** badge above to view it!
+
 
 This repository contains an end-to-end Machine Learning project to detect fraudulent credit card transactions. It handles a highly imbalanced dataset using advanced resampling techniques (SMOTE) and trains a state-of-the-art Gradient Boosting model (XGBoost) for superior predictive performance compared to a baseline Random Forest model.
 
